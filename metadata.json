@@ -1,0 +1,7 @@
+{
+  "name": "SmartSpend Expense Tracker",
+  "description": "An AI-powered expense tracking application that uses natural language to categorize spending, track monthly budgets, and visualize financial health with an Android-inspired interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
